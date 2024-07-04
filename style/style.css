@@ -1,0 +1,36 @@
+.login-box{
+    width: 250px;
+    background-color: rgb(91, 91, 91);
+    text-align: center;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px blueviolet;
+    margin: 50px;
+}
+
+.username-box{
+
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+
+}
+
+.submit-button{
+
+    padding: 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: tomato;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    box-shadow: 1px 1px 2px;
+    
+
+}
+
+.login-title{
+
+    color: white;
+
+}
